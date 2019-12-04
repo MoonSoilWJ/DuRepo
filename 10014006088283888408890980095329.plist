@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://test-kkpf-resource.oss-cn-hangzhou.aliyuncs.com/kkbuluo.core.base/GAME_APP_CLIENT_PKG/PROXY_PKG/43_IOS_1_10014006060754593817450980097993.ipa?version=2</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>123</string>
+				<key>bundle-version</key>
+				<string>123</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>国宝厉害</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
